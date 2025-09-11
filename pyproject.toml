@@ -1,0 +1,33 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "habithelpers"
+version = "0.1.0"
+description = "HabitHelpers: modular habit tracking suite (CLI, web, bots, analytics)."
+authors = [{ name = "Olivia Griffin" }]
+readme = "README.md"
+requires-python = ">=3.12"
+
+dependencies = [
+    "typer",
+    "fastapi",
+    "uvicorn",
+    "sqlalchemy",
+    "alembic",
+    "pydantic",
+    "pandas",
+    "discord.py",
+    "requests",
+]
+
+[tool.setuptools.packages.find]
+where = ["apps", "packages"]
+
+[tool.ruff]
+line-length = 88
+select = ["E","F","I"]
+
+[tool.mypy]
+strict = true

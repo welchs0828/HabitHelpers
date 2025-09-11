@@ -1,0 +1,14 @@
+typer
+fastapi
+uvicorn
+sqlalchemy
+alembic
+pydantic
+pandas
+discord.py
+requests
+pytest
+ruff
+mypy
+bandit
+pip-audit
