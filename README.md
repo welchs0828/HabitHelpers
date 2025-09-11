@@ -1,3 +1,10 @@
+![WIP](https://img.shields.io/badge/status-Work_in_Progress-yellow?style=for-the-badge&logoColor=white)
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2ed42ec7-0800-46f6-8b62-c97d36a7c0ad" width="450" height="250" >
+</p>
+
 
 ## Features
 
@@ -18,24 +25,41 @@
 
 ---
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/58c935fa-6965-4cda-a685-bbbce96a43bb" width="500" height="250" >
+</p>
+
+---
+
 ## Quickstart
 
-```bash
-# Clone & install
-git clone https://github.com/ginesthoii/HabitHelpers.git
-cd HabitHelpers
+bash
+### Clone & install
+git clone https://github.com/ginesthoii/HabitHelpers.git <br>
+cd HabitHelpers  <br>
 uv venv && uv pip install -e .
 
-# Set secrets
+### Set secrets
 cp .env.example .env   # add GH_TOKEN, DISCORD_TOKEN if using integrations
 
-# Run database migrations
+### Run database migrations
 alembic upgrade head
 
-# Try the CLI
-python apps/cli/main.py add "Read 10 pages"
-python apps/cli/main.py done "Read 10 pages"
-python apps/cli/main.py progress --week
+### Try the CLI
+python apps/cli/main.py add "Read 10 pages" <br>
+python apps/cli/main.py done "Read 10 pages" <br>
+python apps/cli/main.py progress --week <br>
 
-# Start the web API
+### Start the web API
 uvicorn apps.web.api:app --reload
+
+
+
+---
+
+
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1f526beb-f795-4aec-85f5-a9fa2ea8794d" width="400" height="250" >
+</p>
